@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\szymo\\Desktop\\GLSS2022_Poprawione-main\\Calculator_DODANE\\CalculatorTests\\CalculatorTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\szymo\\Desktop\\GLSS2022_Poprawione-main\\Calculator_DODANE\\CalculatorTests\\CalculatorTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\szymo\\Desktop\\GLSS2022_Poprawione-main\\Calculator_DODANE\\CalculatorTests\\CalculatorTests.csproj",
+        "projectName": "CalculatorTests",
+        "projectPath": "C:\\Users\\szymo\\Desktop\\GLSS2022_Poprawione-main\\Calculator_DODANE\\CalculatorTests\\CalculatorTests.csproj",
+        "packagesPath": "C:\\Users\\szymo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\szymo\\Desktop\\GLSS2022_Poprawione-main\\Calculator_DODANE\\CalculatorTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\szymo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\szymo\\Desktop\\GLSS2022_Poprawione-main\\Calculator_DODANE\\SDP23\\SDP23.csproj": {
+                "projectPath": "C:\\Users\\szymo\\Desktop\\GLSS2022_Poprawione-main\\Calculator_DODANE\\SDP23\\SDP23.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.3.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\szymo\\Desktop\\GLSS2022_Poprawione-main\\Calculator_DODANE\\SDP23\\SDP23.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\szymo\\Desktop\\GLSS2022_Poprawione-main\\Calculator_DODANE\\SDP23\\SDP23.csproj",
+        "projectName": "SDP23",
+        "projectPath": "C:\\Users\\szymo\\Desktop\\GLSS2022_Poprawione-main\\Calculator_DODANE\\SDP23\\SDP23.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
